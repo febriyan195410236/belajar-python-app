@@ -1,9 +1,9 @@
 pipeline {
-    agent {
-        node {
-            label 'slave03'
-        }
-    }
+//    agent {
+//        node {
+//            label 'slave03'
+//        }
+//    }
     stages {
         stage('build image') {
             steps {
