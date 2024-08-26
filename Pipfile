@@ -21,7 +21,6 @@ pyyaml = "*"
 python-dateutil = "*"
 cryptography = "*"
 six = "*"
-numpy = "*"
 importlib-metadata = "*"
 packaging = "*"
 
