@@ -1,1 +1,1 @@
-print("dHuIdvuFfd4No9LoBx3BlKZwt7BqD18X7HsBn6EIeJiid2Q5Z2")
+print("1NzcqSXPUzzA2NrcpgZLe67nQctc80VSRBozsLQ7Akmy60hcEB")
